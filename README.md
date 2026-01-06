@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JavaScript Fundamentals
 
 This repository contains my JavaScript learning journey, where I practice core concepts step by step.
@@ -21,3 +22,6 @@ This repository contains my JavaScript learning journey, where I practice core c
 Learning JavaScript fundamentals from Apna College (YouTube).
 
 More lectures will be added as I progress.
+=======
+# JavaScript-Fundamentals
+>>>>>>> 9f95ee854330e33ae1bf60ac33f878cb6aec8d61
