@@ -40,3 +40,34 @@ else{
     colour = "White"
 }
 console.log(colour);
+
+
+
+let num = 20;
+
+if( num % 2 === 0){
+    console.log(num, "is even");
+}
+else{
+    console.log(num, "is odd");
+}
+
+//Else-If Statement
+
+let view = "Dark";
+let shade;
+
+if(view === "Dark"){
+    shade = "Black";
+}
+else if(view === "Blue"){
+    shade = "Blue";
+} 
+else if(view === "Pink"){
+    shade = "Pink";
+}
+else{
+    shade = "White";
+} 
+
+console.log(shade);

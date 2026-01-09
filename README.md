@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # JavaScript Fundamentals
 
 This repository contains my JavaScript learning journey, where I practice core concepts step by step.
@@ -18,10 +17,44 @@ This repository contains my JavaScript learning journey, where I practice core c
 - Basic data types in JavaScript
 - How JavaScript code is written and executed
 
+## Lecture 2: Operators & Conditional Statements
+
+### Topics Covered
+- Comments in JavaScript
+- Arithmetic, Unary, Assignment Operators
+- Comparison & Logical Operators
+- Ternary Operator
+- Conditional Statements (if, if-else, else-if)
+- Using MDN Docs
+
+### What I Learned
+- How JavaScript evaluates conditions
+- Difference between comparison and logical operators
+- Writing clean conditional logic
+- Using ternary operators for simple decisions
+
+## Lecture 3: Loops & Strings in JavaScript
+
+### Topics Covered
+- for loop
+- while loop
+- do-while loop
+- for-of loop
+- for-in loop
+- Strings in JavaScript
+- Template Literals
+- Common String Methods
+- Practice questions
+
+### What I Learned
+- How different loops work and when to use each one
+- Difference between for, while, and do-while loops
+- Iterating over arrays and objects using for-of and for-in
+- Basics of strings and how they are handled in JavaScript
+- Using template literals for cleaner string formatting
+- Common string methods like length, toUpperCase, toLowerCase, slice, and replace
+
 ### Source
 Learning JavaScript fundamentals from Apna College (YouTube).
 
 More lectures will be added as I progress.
-=======
-# JavaScript-Fundamentals
->>>>>>> 9f95ee854330e33ae1bf60ac33f878cb6aec8d61
